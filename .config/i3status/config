@@ -12,7 +12,7 @@ general {
    color_bad = "#dc322f"
    color_degraded = "#cb4b16"
    output_format = "i3bar"
-   interval = 2
+   interval = 4
 }
 
 order += "disk /"
